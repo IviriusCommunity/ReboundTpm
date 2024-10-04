@@ -9,7 +9,7 @@
   <Identity
     Name="0b347e39-1da3-4fc7-80c2-dbf3603118f3"
     Publisher="CN=Ivirius"
-    Version="1.0.3.0" />
+    Version="1.0.4.0" />
 
   <mp:PhoneIdentity PhoneProductId="0b347e39-1da3-4fc7-80c2-dbf3603118f3" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
@@ -37,7 +37,8 @@
         Description="ReboundTpm - Manager Modern"
         BackgroundColor="transparent"
         Square150x150Logo="Assets\Store\Square150x150Logo.png"
-        Square44x44Logo="Assets\Store\Square44x44Logo.png">
+        Square44x44Logo="Assets\Store\Square44x44Logo.png"
+			  AppListEntry="none">
         <uap:DefaultTile Wide310x150Logo="Assets\Store\Wide310x150Logo.png"  Square71x71Logo="Assets\Store\SmallTile.png" Square310x310Logo="Assets\Store\LargeTile.png"/>
         <uap:SplashScreen Image="Assets\Store\SplashScreen.png" />
       </uap:VisualElements>
